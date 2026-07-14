@@ -22,3 +22,39 @@ weight = 20
 
 [params]
 colorScheme = "avocado"
+enableSearch = false
+homepage.layout = "background"
+homepage.showRecent = true
+defaultFeaturedImage = "/img/background.jpg"
+defaultBackgroundImage = "/img/background.jpg"
+
+[params.header]
+layout = "fixed"
+
+[params.list]
+showHero = true
+heroStyle = "background"
+
+[params.article]
+showHero = true
+heroStyle = "background"
+showAuthorBottom = true
+
+[params.author]
+name = "Dr. Marco Klement"
+headline = "Projektmitarbeiter FDM @ FAU"
+subtitle = "Softwareentwicklung, Serverpflege"
+bio = "Projektmitarbeiter Forschungsdatenmanagement @ FAU"
+links = [
+#    { rss = "https://maklem.eu/index.xml" },
+    { email = "hallo-website@leuchtstark.dev" },
+    { matrix = "https://matrix.to/#/@maklem:leuchtstark.dev" },
+    { github = "https://github.com/maklem" },
+    { fediverse = "https://social.leuchtstark.dev/@maklem" },
+    { image = "https://social.leuchtstark.dev/@maklem_photography" },
+#    { codeberg = "https://codeberg.org/maklem/" },
+#    { bluesky = "https://bsky.app/profile/leuchtstark.dev" },
+#    { linkedin = "https://www.linkedin.com/in/marco-klement/" },
+#    { orcid = "https://orcid.org/0000-0001-9958-7291" },
+#    { xing = "https://www.xing.com/profile/Marco_Klement034256" },
+]
