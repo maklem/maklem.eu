@@ -1,6 +1,14 @@
 ---
 title: Es werde Licht - Kapitel 2
 date: 2025-09-16T08:45:27.754Z
+categories:
+- Projekte
+tags: 
+- Raspberry Pi
+- Streamdeck
+- Lichtsteuerung
+- Familienzentrum Erlangen
+- Ehrenamt
 ---
 
 Vor einigen Wochen schrieb ich über das Projekt, eine Steuerung für das Veranstaltungslicht im Familienzentrum zu entwickeln - von 36 digitalen Kanälen zu ein paar beleuchteten Tasten.

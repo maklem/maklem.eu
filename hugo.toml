@@ -16,6 +16,25 @@ pageRef = "blog"
 weight = 10
 
 [[menus.main]]
+parent = "Blog"
+name = "Alle Artikel"
+pageRef = "blog"
+weight = 10
+
+[[menus.main]]
+parent = "Blog"
+name = "Kategorien"
+pageRef = "categories"
+weight = 15
+
+[[menus.main]]
+parent = "Blog"
+name = "Tags"
+pageRef = "tags"
+weight = 20
+
+
+[[menus.main]]
 name = "Linktree"
 pageRef = "linktree"
 weight = 20
@@ -34,11 +53,14 @@ layout = "fixed"
 [params.list]
 showHero = true
 heroStyle = "background"
+showTaxonomies = true
+showSummary = true
 
 [params.article]
 showHero = true
 heroStyle = "background"
 showAuthorBottom = true
+showTaxonomies = true
 
 [params.author]
 name = "Dr. Marco Klement"
@@ -59,3 +81,7 @@ links = [
 #    { orcid = "https://orcid.org/0000-0001-9958-7291" },
 #    { xing = "https://www.xing.com/profile/Marco_Klement034256" },
 ]
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

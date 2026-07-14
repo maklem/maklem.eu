@@ -1,6 +1,10 @@
 ---
 title: Mit der Macht des Unmöglichen 🔥🤯🔥
 date: 2025-10-08T07:23:31.022Z
+categories:
+- Lernen und Experimente
+tags: 
+- ESP32
 ---
 
 Als ich vor einigen Jahren zum ersten Mal einen Debugger in einer IDE offen hatte, war das eine Offenbarung. Callstack, lokale Variablen, Breakpoints; davor kannte ich nur `backtrace` in `gdb` nachdem ein Programm gekrasht war. Und da waren sie, die vielen Möglichkeiten.

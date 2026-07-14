@@ -1,6 +1,10 @@
 ---
 title: '"Hello AI" mit Kubernetes'
 date: 2025-09-10T09:07:59.572Z
+categories:
+- Lernen und Experimente
+tags: 
+- Raspberry Pi
 ---
 
 Was können die KI-Tools eigentlich wirklich, und durch welches Projekt kann ich das herausfinden? Ich könnte mir Kubernetes auf einem Raspberry Pi installieren, und eine Hello World App über CI deployen. Sind mir die Tools dabei eine gute Hilfe?

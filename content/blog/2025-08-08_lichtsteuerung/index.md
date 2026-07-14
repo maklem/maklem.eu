@@ -1,6 +1,16 @@
 ---
 title: Es werde Licht - Kapitel 1
 date: 2025-08-08T07:50:13.130Z
+categories:
+- Projekte
+tags: 
+- Raspberry Pi
+- Streamdeck
+- Lichtsteuerung
+- Familienzentrum Erlangen
+- Ehrenamt
+summary: |
+  Hallo Welt!
 ---
 
 
@@ -18,7 +28,7 @@ In welchem Bereich hast du mal dein Wissen eingesetzt, den man von außen nicht 
 
 
 {{< figure 
-    src="feature_streamdeck.jpg"
+    src="feature.jpg"
     alt=""
     caption=""
 >}}
