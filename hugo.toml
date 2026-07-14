@@ -1,5 +1,5 @@
 baseURL = "https://maklem.eu/"
-locale = 'en'
+locale = 'de'
 title = 'maklem.eu'
 
 [module]
@@ -8,3 +8,17 @@ title = 'maklem.eu'
         ignoreConfig = false
         ignoreImports = false
         path = 'github.com/nunocoracao/blowfish/v2'
+
+[menus]
+[[menus.main]]
+name = "Blog"
+pageRef = "blog"
+weight = 10
+
+[[menus.main]]
+name = "Linktree"
+pageRef = "linktree"
+weight = 20
+
+[params]
+colorScheme = "avocado"
