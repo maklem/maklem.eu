@@ -37,14 +37,14 @@ weight = 20
 [[menus.main]]
 name = "Linktree"
 pageRef = "linktree"
-weight = 20
+weight = 30
 
 [params]
 colorScheme = "avocado"
 enableSearch = false
 homepage.layout = "background"
 homepage.showRecent = true
-defaultFeaturedImage = "/img/background.jpg"
+defaultFeaturedImage = "/img/feature_3.png"
 defaultBackgroundImage = "/img/background.jpg"
 
 [params.header]
