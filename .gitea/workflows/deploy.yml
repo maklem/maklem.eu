@@ -1,0 +1,28 @@
+name: Deploy Hugo Website
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rclone golang-go
+          rclone version
+          go version
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Build Website
+        run: hugo
+      - name: Deploy Website
+        run:
+          rclone sync public/ :sftp:www/
+        env:
+          RCLONE_SFTP_HOST: ${{ secrets.HOST }}
+          RCLONE_SFTP_USER: ${{ secrets.USER }}
+          RCLONE_SFTP_PASS: ${{ secrets.PASS }}

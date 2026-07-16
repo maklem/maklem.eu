@@ -65,7 +65,7 @@ showTaxonomies = true
 
 [params.author]
 name = "Dr. Marco Klement"
-headline = "Projektmitarbeiter FDM @ FAU"
+headline = "Entwickler, Bastler, Forscher, Christ"
 subtitle = "Softwareentwicklung, Serverpflege"
 bio = "Projektmitarbeiter Forschungsdatenmanagement @ FAU"
 links = [
