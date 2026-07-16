@@ -54,7 +54,7 @@ showRecent = true
 showRecentItems = 3
 cardView = true
 showMoreLink = true
-showMoreLinkDest = '/posts'
+showMoreLinkDest = '/blog/'
 
 [params.list]
 showHero = true
