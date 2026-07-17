@@ -2,11 +2,9 @@
 date: 2026-07-16
 title: maklem.eu
 categories:
-- Lernen und Experimente
+- Projekte
 tags: 
 - Domain
-- Webspace
-- Git
 - Continuous Integration
 ---
 
