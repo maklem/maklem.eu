@@ -17,6 +17,8 @@ Seit dem haben wir das bei den eigenen Veranstaltungen ausprobiert, und intern F
  - Die Helligkeit sollte einstellbar sein
  - Die Farben der RGB-Scheinwerfer sollten eingestellt werden können und gespeichert bleiben.
 
+![](feature.jpg)
+
 In dieser zweiten Iteration ist das Ziel nun klarer. Also habe ich die Konfiguration weitestgehend mit Ansible automatisiert und dokumentiert. Mir fehlt lediglich ein Weg um Companion (Die Software, die das Streamdeck ansteuert) automatisch mit der Konfig aus dem Repo zu bespielen.
 
 Ich bin gespannt, wo dieses Projekt noch hinführt. 

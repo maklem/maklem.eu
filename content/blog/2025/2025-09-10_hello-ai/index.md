@@ -37,7 +37,7 @@ Ich habe gelernt:
 * Manchmal muss man doch selber suchen. Dummerweise vor allem dann, wenn die Information schwierig zu finden ist.
 
 {{< figure 
-    src="/blog/2025-09-10_hello_ai.jpg"
+    src="feature.jpg"
     alt=""
     caption=""
 >}}

@@ -15,6 +15,6 @@ Und ja, sehen ist schön, aber Debugger können mehr. Sie können, was ein Compi
 
 {{< figure 
     src="feature.jpg"
-    alt="Ein konfiguriertes Elgato Streamdeck. Ein Knopf mit Aufschrift \"Kreuz\" leuchtet. Im Hintergrund ist das Kreuz an der Wand beleuchtet."
-    caption="Photo des konfigurierten Streamdecks"
+    alt="Ein ESP32 auf einem Steckbrett und eine passende Debugging-Platine. Beide sind über Kabel miteinander verbunden."
+    caption="Ein ESP32 und eine passende Debugging-Platine."
 >}}
