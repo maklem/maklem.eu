@@ -11,7 +11,7 @@ tags:
 - Ehrenamt
 ---
 
-Vor einigen Wochen schrieb ich über das Projekt, eine Steuerung für das Veranstaltungslicht im Familienzentrum zu entwickeln - von 36 digitalen Kanälen zu ein paar beleuchteten Tasten.
+[Vor einigen Wochen schrieb ich](../2025-08-08_lichtsteuerung/) über das Projekt, eine Steuerung für das Veranstaltungslicht im Familienzentrum zu entwickeln - von 36 digitalen Kanälen zu ein paar beleuchteten Tasten.
 
 Seit dem haben wir das bei den eigenen Veranstaltungen ausprobiert, und intern Feedback gesammelt.
  - Die Helligkeit sollte einstellbar sein
