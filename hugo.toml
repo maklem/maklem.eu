@@ -40,7 +40,7 @@ pageRef = "linktree"
 weight = 30
 
 [params]
-colorScheme = "avocado"
+colorScheme = "maklem-lime"
 enableSearch = false
 defaultFeaturedImage = "/img/feature_3.png"
 defaultBackgroundImage = "/img/background.jpg"
