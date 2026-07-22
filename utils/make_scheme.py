@@ -35,7 +35,7 @@ class Color:
             ratio = 0.5 + 0.5 * (ratio - middle) / (1-middle)
 
         c = self.at_ratio(ratio)
-        return f"--color-{name:s}-{millistep:d}: {c.r}, {c.g}, {c.b};"
+        return f"--color-{name:s}-{millistep:d}: {c.r:3d}, {c.g:3d}, {c.b:3d}; --preview: #{c.r:02x}{c.g:02x}{c.b:02x};"
 
 NEUTRAL = Color(127,127,127)
 PRIMARY = Color(0xCC, 0xFF, 0) # Electric Lime
@@ -44,7 +44,7 @@ SECONDARY = Color(0, 0xCC, 0xFF) # Emerald?
 STEPS= (50, 100, 200, 300, 400, 500, 600, 700, 800, 900)
 
 mapping = [
-    ("neutral",   NEUTRAL,   0.40, 0.125, 1.0 ),
+    ("neutral",   NEUTRAL,   0.50, 0.125, 1.0 ),
     ("primary",   PRIMARY,   0.30, 2,     1.0 ),
     ("secondary", SECONDARY, 0.30, 2,     1.0 ),
 ]
