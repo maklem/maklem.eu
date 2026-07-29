@@ -67,6 +67,7 @@ showHero = true
 heroStyle = "background"
 showAuthorBottom = true
 showTaxonomies = true
+showCategoriesInSecondaryColor = false
 
 [params.author]
 name = "Dr. Marco Klement"
