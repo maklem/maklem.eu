@@ -7,7 +7,7 @@ tags:
 - Raspberry Pi
 - Mastodon
 - PostgreSQL
-summary: <
+summary: >
     Über einen Backup-Cronjob wurde ich auf Defekte in meiner Datenbank aufmerksam.
     Aber wie rettet man den Rest der Datenbank?
 ---
