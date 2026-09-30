@@ -5,6 +5,7 @@ categories:
 - Lernen und Experimente
 tags: 
 - Raspberry Pi
+- Linux
 ---
 
 Was können die KI-Tools eigentlich wirklich, und durch welches Projekt kann ich das herausfinden? Ich könnte mir Kubernetes auf einem Raspberry Pi installieren, und eine Hello World App über CI deployen. Sind mir die Tools dabei eine gute Hilfe?

@@ -5,6 +5,7 @@ categories:
 - HomeLab
 tags: 
 - Raspberry Pi
+- Linux
 ---
 
 Übertreibe ich damit? Gewiss! Bislang gibt's darin ... mich! Anschauen wollte ich mir das dennoch.
